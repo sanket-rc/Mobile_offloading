@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mobile_Application</string>
+    <string name="title_activity_classify">Classify_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_classification">Classification_Activity</string>
+    <string name="title_activity_master">Master</string>
+    <string name="title_activity_slave">Slave</string>
+    <string name="title_activity_demo">demo</string>
+    <!--    <string-array name="imageCategory">-->
+    <!--        <item>Nature</item>-->
+    <!--        <item>Person</item>-->
+    <!--        <item>Animal</item>-->
+    <!--        <item>Food</item>-->
+    <!--        <item>Object</item>-->
+    <!--    </string-array>-->
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_classification.xml" value="0.1625" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_classify.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_image_data.xml" value="0.1625" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_main.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_master.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/activity_slave.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/schaud59/Desktop/Mobile Communication/MC_Assignment_3/Mobile_Computing_Project_MNIST/Android_Application/app/src/main/res/layout/device_adapter_view.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/tycha/Desktop/School/CSE535/A3/Android_Application/app/src/main/res/layout/activity_image_data.xml" value="0.346875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

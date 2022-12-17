@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    tools:context=".ImageDataActivity">
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="Captured Image"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textFontWeight="700"
+        android:textAlignment="center"
+        android:fontWeight="400"
+        android:background="#74b72e"
+        android:textSize="25sp"/>
+
+    <ImageView
+        android:id="@+id/image_view2"
+        android:layout_width="393dp"
+        android:layout_height="480dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btn_upload_img"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="Classify Image" />
+
+    <TextView
+        android:id="@+id/responseText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="35dp"
+        android:background="@color/cardview_shadow_start_color"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:paddingLeft="15dp"
+        android:text="Message from the Server ..."
+        android:textFontWeight="600"
+        android:textSize="20sp" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/responseText1"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:height="35dp"-->
+<!--        android:background="@color/cardview_shadow_start_color"-->
+<!--        android:fontFamily="sans-serif-condensed-medium"-->
+<!--        android:paddingLeft="15dp"-->
+<!--        android:text="Message from the Server ..."-->
+<!--        android:textFontWeight="600"-->
+<!--        android:textSize="20sp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/responseText2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:height="35dp"-->
+<!--        android:background="@color/cardview_shadow_start_color"-->
+<!--        android:fontFamily="sans-serif-condensed-medium"-->
+<!--        android:paddingLeft="15dp"-->
+<!--        android:text="Message from the Server ..."-->
+<!--        android:textFontWeight="600"-->
+<!--        android:textSize="20sp" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/responseText3"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:height="35dp"-->
+<!--        android:background="@color/cardview_shadow_start_color"-->
+<!--        android:fontFamily="sans-serif-condensed-medium"-->
+<!--        android:paddingLeft="15dp"-->
+<!--        android:text="Message from the Server ..."-->
+<!--        android:textFontWeight="600"-->
+<!--        android:textSize="20sp" />-->
+
+</LinearLayout>
